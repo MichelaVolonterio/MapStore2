@@ -47,7 +47,7 @@ export default {
             tool: (props) => ({
                 position: 0,
                 label: props.label || 'RSE',
-                href: props.href || 'http://www.rse-web.it/home.page',
+                href: props.href || 'http://www.rse-web.it/',
                 img: props.src && <img className="customer-logo" src={props.src} height="30" /> || <img className="customer-logo" src={src} height="30" />,
                 logo: true
             })
