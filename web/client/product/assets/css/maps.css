@@ -1,17 +1,17 @@
 
 .page-maps .ms-home-description {
-    background-image: url('../img/banner4_esempio.png');
+    background-image: url('../img/banner_geoportale_low.png');
 }
 
 .page-maps .mapstore-header {
-    background-image: url('../img/banner4_esempio.png');
+    background-image: url('../img/banner_geoportale_low.png');
     height: 300px;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
     background-position: center;
-    position: relative;
+    position: fixed;
     top: -20px;
 }
 

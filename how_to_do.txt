@@ -50,3 +50,15 @@ Per togliere la selezione delle lingue, togliere le seguenti righe di codice dal
               "code": "es-ES",
               "description": "Español"
             }
+
+
+
+
+CAMBIO FORMATO NUMERO - DA VERIFICARE
+nel file web\client\components\I18N\enhancers\__tests__\addI18NProps-test.js
+parametri del FormatNumber
+potrebbe non funzionare perchè i numeri sono formattati sulla base della localizzazione del browser
+
+
+LABEL SITO 
+modificata in web\client\index.html
