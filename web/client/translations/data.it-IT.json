@@ -56,6 +56,7 @@
         "showEmptyMessageGFI": "Mostra il messaggio: Nessuna feature per gli altri layer",
         "remove": "Rimuovi",
         "removeThumbnail": "Rimuovi anteprima",
+        "label_title": "Geoportale Energia e Territorio",
         "layerProperties": {
             "windowTitle": "Proprietà del livello",
             "title": "Titolo",
@@ -289,7 +290,7 @@
             "RSE_Descrizione": "Il Geoportale Energia e Territorio è un contenitore di informazioni territoriali aventi per oggetto la distribuzione delle diverse fonti energetiche rinnovabili e le loro relazioni con il territorio. Esso costituisce il punto di accesso all'Atlante Integrato, ai principali atlanti tematici e ad altri contenuti interattivi legati ad approfondimenti su aspetti del sistema energetico di particolare rilevanza.",
             "LinkedinGroup": "Gruppo Linkedin Mapstore",
             "scrollTop": "Torna all'inizio della pagina",
-            "footerDescription": "<strong>Ricerca sul Sistema Energetico - RSE S.p.A.</strong> <a href=\"mailto:rse@legalmail.it\">rse@legalmail.it</a> <strong>Italia</strong>: +39 023992.1 <br> <a href=\"http://www.rse-web.it/privacy/\"target='_blank'>Privacy/Cookies</a>",
+            "footerDescription": "<strong>Ricerca sul Sistema Energetico - RSE S.p.A.</strong> <a href=\"mailto:rse@legalmail.it\">rse@legalmail.it</a> <strong>Italia</strong>: +39 023992.1 <br> <a href=\"http://www.rse-web.it/privacy/\"target='_blank'>Privacy</a>",
             "ml": {
                 "title": "Resta in contatto e tieniti aggiornato con le mailing list",
                 "subscribe_users": "Sottoscrivi la mailing list degli utenti",
